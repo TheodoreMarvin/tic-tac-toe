@@ -1,3 +1,3 @@
 # tic-tac-toe
-Tugas Akhir Alpro LAB
-Windows only
+Tugas Akhir Alpro LAB <br>
+Windows OS only
